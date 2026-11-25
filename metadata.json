@@ -1,0 +1,6 @@
+{
+  "name": "3D Digital Twin PA System Simulator",
+  "description": "Simulator edukasi teknis interaktif berbasis 3D Digital Twin untuk sistem Public Address (Mikrofon Pengumuman, Pre-Amplifier, dan Ceiling Speaker) lengkap dengan mode Exploded View, Cut-Away, Wiring, DSP Audio Real-Time, dan Troubleshooting.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
